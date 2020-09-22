@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
-import CpfCnpj from "../src/CpfCnpj.js";
+import CpfCnpj from "../src/index.js";
 import "./styles.css";
 
 const isEmpty = (value) => {
